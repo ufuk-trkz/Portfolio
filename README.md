@@ -1,5 +1,13 @@
 # Ufuk's Portfolio
 
+Ufuk Türközü
+Full-Stack iOS-Developer
+E-Mail: ufuk_trkz@hotmail.de
+Twitter: @trkz_ufuk
+LinkedIn: 
+
+## Projects
+
 Unit Converter
 
 The Unit Converter allows the user to convert different kind of units. It includes a currency, weight and a length converter.
