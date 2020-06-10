@@ -10,13 +10,13 @@ Twitter: @trkz_ufuk
 
 ## Projects
 
-Schematic Capture
+### Schematic Capture
 
-Orange Pages
+### Orange Pages
 
 
 
-Unit Converter
+### Unit Converter
 
 Allows the user to convert different kind of units. It includes a currency, weight and a length converter.
 
