@@ -1,8 +1,14 @@
 # Ufuk's Portfolio
 
-Ufuk Türközü  Full-Stack iOS-Developer
+## Ufuk Türközü  
 
-E-Mail: ufuk_trkz@hotmail.de    LinkedIn: https://www.linkedin.com/in/ufuk-türközü-497206196/   Twitter: @trkz_ufuk
+Full-Stack iOS-Developer
+
+E-Mail: ufuk_trkz@hotmail.de    
+
+LinkedIn: https://www.linkedin.com/in/ufuk-türközü-497206196/   
+
+Twitter: @trkz_ufuk
 
 ## Projects
 
