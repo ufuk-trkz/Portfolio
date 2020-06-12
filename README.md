@@ -12,7 +12,7 @@ Twitter: @trkz_ufuk
 
 ### Schematic Capture
 
-### Plantwise
+### PlantWise
 https://apps.apple.com/de/app/plantwise/id1497953084
 
 ### Orange Pages
