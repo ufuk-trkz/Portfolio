@@ -12,7 +12,7 @@ Twitter: @trkz_ufuk
 
 ### Project 0: SNIPIT
 
-Snipit is a Social Media App that is purely audio based. Users can follow others and post short Snipits (up to 9 seconds). These Snipits can be commented and every comment can be commented also. Users can enable auto-play, which, while enabled, plays all Snipits in one's feed chronologically. Users can also like Snipts and comments.
+Snipit is a purely audio based Social Media. Users can follow others and post short Snipits (up to 9 seconds). These Snipits can be commented and every comment can be commented also. Users can enable auto-play, which, while enabled, plays all Snipits in one's feed chronologically. Users can also like Snipts and comments.
 
 Users are shown Snipits of other users they aren't following yet in the Discovery Feed. In the Discovery Feed, users can search for specific users via name or their Snipit handle. Users can share Snipits and comments via message to other users and also chat with them via audio.
 
@@ -20,17 +20,7 @@ NOTE: This app isn't on the Appstore yet. It will be in beta testing soon, hopef
 
 ### Project 1: Schematic Capture
 
+An iOS app for capturing and annotating huge machines in some of the countries larger steel manufacturing facilities. It needs offline capabilities to be able to capture photos and annotate them in facilities that often have no network or signal available to them.
+
 ### Project 2: PlantWise
 https://apps.apple.com/de/app/plantwise/id1497953084
-
-### Orange Pages
-https://github.com/ufuk-trkz/BW-Unit4-orange-pages
-
-### Unit Converter
-https://github.com/ufuk-trkz/UnitConverter
-
-Allows the user to convert different kind of units. It includes a currency, weight and a length converter.
-
-![CurrencyConverter](https://user-images.githubusercontent.com/57141872/72815324-c48b0f80-3c66-11ea-840f-67ba44a9466d.png)
-
-
