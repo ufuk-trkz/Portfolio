@@ -20,7 +20,7 @@ NOTE: This app isn't on the Appstore yet. It will be in beta testing soon, hopef
 
 ### Project 1: Schematic Capture
 
-### PlantWise
+### Project 2: PlantWise
 https://apps.apple.com/de/app/plantwise/id1497953084
 
 ### Orange Pages
