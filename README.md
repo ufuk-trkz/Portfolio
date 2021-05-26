@@ -31,12 +31,12 @@ Third-Party Libraries:
 
 Things I learned:
 
-FirebaseAuth
-FirebaseMessaging
-Firebase Storage
-AVFoundation
-MediaPlayer
-Remote Notifications
+- FirebaseAuth
+- FirebaseMessaging
+- Firebase Storage
+- AVFoundation
+- MediaPlayer
+- ****Remote Notifications
 
 ### Project 1: Schematic Capture
 
