@@ -12,6 +12,30 @@ Twitter: @trkz_ufuk
 
 ### Project 0: SNIPIT
 
+Backend:
+
+- Firebase
+Framework:
+
+- UIKit
+Language:
+
+- Swift
+Architecture:
+
+- Model-View-Controller
+Third-Party Libraries:
+
+- Firebase
+Things I learned:
+
+FirebaseAuth
+FirebaseMessaging
+Firebase Storage
+AVFoundation
+MediaPlayer
+Remote Notifications
+
 ### Project 1: Schematic Capture
 
 An iOS app for capturing and annotating huge machines in some of the countries larger steel manufacturing facilities. It needs offline capabilities to be able to capture photos and annotate them in facilities that often have no network or signal available to them.
