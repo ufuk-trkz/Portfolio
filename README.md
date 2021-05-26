@@ -15,18 +15,20 @@ Twitter: @trkz_ufuk
 Backend:
 
 - Firebase
+
 Framework:
 
 - UIKit
+
 Language:
 
 - Swift
+
 Architecture:
 
 - Model-View-Controller
 Third-Party Libraries:
 
-- Firebase
 Things I learned:
 
 FirebaseAuth
