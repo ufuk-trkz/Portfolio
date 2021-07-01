@@ -13,6 +13,10 @@ Twitter: @trkz_ufuk
 ### Project 0: SNIPIT
 
 ![alt text](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit0.png?raw=true)
+![alt text](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit1.png?raw=true)
+![alt text](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit2.png?raw=true)
+![alt text](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit3.png?raw=true)
+![alt text](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit4.png?raw=true)
 
 Backend:
 
