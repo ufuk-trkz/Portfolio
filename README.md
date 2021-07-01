@@ -12,6 +12,11 @@ Twitter: @trkz_ufuk
 
 ### Project 0: SNIPIT
 
+Snipit is a purely audio based Social Media App that allows users to post short voice memos (up to 9 seconds). Users also can like, comment or share these snipits in private chat rooms. Users can enable auto-play, which, while enabled, plays all Snipits in one's feed chronologically. In Discovery Feed users can search for specific users via name or their snipit handle and find Snipits of other users they aren't following yet.
+The app notifies users when people react to their snipits follow them or send them a new message.
+
+NOTE: This app isn't on the Appstore yet. It will be in beta testing soon.
+
 ![alt text](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit0.png?raw=true)
 ![alt text](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit1.png?raw=true)
 ![alt text](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit2.png?raw=true)
