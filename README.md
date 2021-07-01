@@ -12,13 +12,22 @@ Twitter: @trkz_ufuk
 
 ### Project 0: SNIPIT
 
+![alt text](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit0.png?raw=true)
+
 Backend:
 
 - Firebase
 
-Framework:
+Frameworks:
 
 - UIKit
+- AVFoundation
+- MediaPlayer
+- FirebaseAuth
+- FirebaseMessaging
+- FirebaseDatabase
+- FirebaseStorage
+- FirebaseFirestore
 
 Language:
 
@@ -39,13 +48,13 @@ Things I learned:
 
 ### Project 1: Schematic Capture
 
-An iOS app for capturing and annotating huge machines in some of the countries larger steel manufacturing facilities. It needs offline capabilities to be able to capture photos and annotate them in facilities that often have no network or signal available to them.
+An in-house iOS app for capturing and annotating huge machines in some of the countries larger steel manufacturing facilities. It needs offline capabilities to be able to capture photos and annotate them in facilities that often have no network or signal available to them.
 
 Backend:
 
 - Okta
 
-Framework:
+Frameworks:
 
 - UIKit
 
@@ -74,6 +83,7 @@ Things I learned:
 - SwiftyDropbox
 
 ### Project 2: PlantWise
+
 With PlantWise you can create a watering schedule for your plants and get notifications when they're thirsty. This is synced across multiple devices, so the whole family is up to date.
 [App Store](https://apps.apple.com/de/app/plantwise/id1497953084)
 
@@ -110,6 +120,7 @@ Game of Life is a cellular automaton invented by British mathematician John Conw
 Framework:
 
 - UIKit
+- SpriteKit
 
 Language:
 
