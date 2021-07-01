@@ -30,7 +30,6 @@ Architecture:
 
 Things I learned:
 
-- FirebaseAuth
 - FirebaseMessaging
 - Firebase Storage
 - AVFoundation
@@ -68,11 +67,11 @@ Things I did:
 
 Things I learned:
 
+- Working for a Customer
 - Implementig an UX Design
 - Working with a backend team
-- Working for a Customer
-- SwiftyDropbox
 - Okta
+- SwiftyDropbox
 
 ### Project 2: PlantWise
 With PlantWise you can create a watering schedule for your plants and get notifications when they're thirsty. This is synced across multiple devices, so the whole family is up to date.
@@ -80,7 +79,7 @@ https://apps.apple.com/de/app/plantwise/id1497953084
 
 Backend:
 
-- Okta
+- Firebase
 
 Framework:
 
@@ -101,7 +100,7 @@ Things I did:
 - Implemented Authentification using Firebase.
 
 Things I learned:
-- Firebase
+- FirebaseAuth
 - URLSession
 
 ### Project 3: Conway's GameOfLife
@@ -123,5 +122,5 @@ Architecture:
 Things I learned:
 
 - SpriteKit
-- Working with Matrixes!!!
+- Working with Matrices!!! 🤯
 
