@@ -17,11 +17,11 @@ The app notifies users when people react to their snipits follow them or send th
 
 NOTE: This app isn't on the Appstore yet. It will be in beta testing soon.
 
-![alt text](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit0.png?raw=true)
-![alt text](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit1.png?raw=true)
-![alt text](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit2.png?raw=true)
-![alt text](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit3.png?raw=true)
-![alt text](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit4.png?raw=true)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/57141872/125324911-a6c0d700-e340-11eb-9f2f-2a8267b92f8c.gif)
+![ezgif com-video-to-gif-2](https://user-images.githubusercontent.com/57141872/125324925-a9bbc780-e340-11eb-9a01-3c0bf94b5a79.gif)
+![ezgif com-video-to-gif-3](https://user-images.githubusercontent.com/57141872/125324605-5cd7f100-e340-11eb-870e-168bf1bb1bc9.gif)
+![ezgif com-video-to-gif-4](https://user-images.githubusercontent.com/57141872/125324628-606b7800-e340-11eb-8258-85c1249903da.gif)
+
 
 Backend:
 
@@ -30,6 +30,7 @@ Backend:
 Frameworks:
 
 - UIKit
+- Combine
 - AVFoundation
 - MediaPlayer
 - FirebaseAuth
@@ -50,6 +51,7 @@ Things I learned:
 
 - FirebaseMessaging
 - Firebase Storage
+- Combine
 - AVFoundation
 - MediaPlayer
 - Remote Notifications
