@@ -96,7 +96,9 @@ Things I learned:
 ### Project 2: PlantWise
 
 With PlantWise you can create a watering schedule for your plants and get notifications when they're thirsty. This is synced across multiple devices, so the whole family is up to date.
-[App Store](https://apps.apple.com/de/app/plantwise/id1497953084)
+
+![image1](https://user-images.githubusercontent.com/57141872/125328259-66fbee80-e344-11eb-938a-c18f9bccb23e.jpeg)
+
 
 Backend:
 
