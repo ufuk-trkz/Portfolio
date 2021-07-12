@@ -57,7 +57,8 @@ Things I learned:
 - Remote Notifications
 - CoreAnimations
 
-### Project 1: Schematic Capture
+### Project 1: Schematic Capture 
+(Unfortunately I don't have any permission to include screenshots) 
 
 An in-house iOS app for capturing and annotating huge machines in some of the countries larger steel manufacturing facilities. It needs offline capabilities to be able to capture photos and annotate them in facilities that often have no network or signal available to them.
 
