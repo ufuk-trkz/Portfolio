@@ -131,6 +131,9 @@ Things I learned:
 
 Game of Life is a cellular automaton invented by British mathematician John Conway (1937-2020). It’s a simulation of the behavior of populations (of pixels!) after creating an initial setup.
 
+![image1 2](https://user-images.githubusercontent.com/57141872/126638418-a499240e-2779-4ec5-8de4-d8b6e154d352.jpeg)
+
+
 Framework:
 
 - UIKit
